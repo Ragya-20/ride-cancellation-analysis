@@ -1,13 +1,3 @@
-
-
- 
-
-
-
-
-
-
-
 # 🚕 Ride Cancellation Analysis Dashboard
 
 ## 📌 Overview
@@ -133,6 +123,7 @@ This analysis provides actionable insights to:
 ---
 
 ## 📂 Repository Structure
+
 ride-cancellation-analysis/
 │
 ├── data/
